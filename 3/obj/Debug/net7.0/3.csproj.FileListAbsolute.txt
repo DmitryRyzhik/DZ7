@@ -1,0 +1,15 @@
+/Users/olgaboldyreva/GB/C#/DZ7/3/bin/Debug/net7.0/3
+/Users/olgaboldyreva/GB/C#/DZ7/3/bin/Debug/net7.0/3.deps.json
+/Users/olgaboldyreva/GB/C#/DZ7/3/bin/Debug/net7.0/3.runtimeconfig.json
+/Users/olgaboldyreva/GB/C#/DZ7/3/bin/Debug/net7.0/3.dll
+/Users/olgaboldyreva/GB/C#/DZ7/3/bin/Debug/net7.0/3.pdb
+/Users/olgaboldyreva/GB/C#/DZ7/3/obj/Debug/net7.0/3.csproj.AssemblyReference.cache
+/Users/olgaboldyreva/GB/C#/DZ7/3/obj/Debug/net7.0/3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgaboldyreva/GB/C#/DZ7/3/obj/Debug/net7.0/3.AssemblyInfoInputs.cache
+/Users/olgaboldyreva/GB/C#/DZ7/3/obj/Debug/net7.0/3.AssemblyInfo.cs
+/Users/olgaboldyreva/GB/C#/DZ7/3/obj/Debug/net7.0/3.csproj.CoreCompileInputs.cache
+/Users/olgaboldyreva/GB/C#/DZ7/3/obj/Debug/net7.0/3.dll
+/Users/olgaboldyreva/GB/C#/DZ7/3/obj/Debug/net7.0/refint/3.dll
+/Users/olgaboldyreva/GB/C#/DZ7/3/obj/Debug/net7.0/3.pdb
+/Users/olgaboldyreva/GB/C#/DZ7/3/obj/Debug/net7.0/3.genruntimeconfig.cache
+/Users/olgaboldyreva/GB/C#/DZ7/3/obj/Debug/net7.0/ref/3.dll
